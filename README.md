@@ -8,15 +8,15 @@ Sample code for PA2 assignment
 * Run the frontend
 * Click "Make API Call" button to see the frontend upload based on backend
 
-  git clone https://github.com/nigelbabu/pa2-sample.git
-  cd pa2-sample
-  python3 -m venv env
-  source env/bin/activate
-  pip install -r requirements.txt
-  flask --app backend run --port 8001
+    git clone https://github.com/nigelbabu/pa2-sample.git
+    cd pa2-sample
+    python3 -m venv env
+    source env/bin/activate
+    pip install -r requirements.txt
+    flask --app backend run --port 8001
 
 Open a new terminal to run the frontend
 
-  cd pa2-sample
-  python3 -m venv/bin/activate
-  python3 frontend.py
+    cd pa2-sample
+    python3 -m venv/bin/activate
+    python3 frontend.py
