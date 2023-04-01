@@ -1,12 +1,15 @@
 # pa2-sample
 Sample code for PA2 assignment
 
-## How to Run
+## How to Run (high-level)
 * Clone the repository
 * Install the dependencies
 * Run the server
 * Run the frontend
 * Click "Make API Call" button to see the frontend upload based on backend
+
+## Step by Step Commands
+Here is the first few steps to clone the repo and run the backend
 
     git clone https://github.com/nigelbabu/pa2-sample.git
     cd pa2-sample
